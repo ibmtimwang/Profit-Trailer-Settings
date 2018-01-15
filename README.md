@@ -41,6 +41,5 @@ LiteCoin: `LiGcBaXE9TXkMz7U7unz6mAUMKx3QD9hFY`
 
 ## LICENSE
 
-MIT License
-
+[MIT License](https://opensource.org/licenses/MIT)
 
